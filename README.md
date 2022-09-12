@@ -1,3 +1,3 @@
 # nextstrainSamples
-https://nextstrain.org/community/nextstrainOGO/nextstrainSamples
-[asd2f](nextstrain.org/community/nextstrainOGO/nextstrainSamples/gisaid50)
+[nextstrain100](https://nextstrain.org/community/nextstrainOGO/nextstrainSamples)
+[gisaid50](https://nextstrain.org/community/nextstrainOGO/nextstrainSamples/gisaid50)
